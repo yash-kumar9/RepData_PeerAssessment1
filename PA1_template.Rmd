@@ -1,7 +1,7 @@
 ---
 title: "Reproducible Research: Peer Assessment 1"
-author: "Yueming Sun"
-date: "11/12/2014"
+author: ""
+date: ""
 output: html_document
 keep_md: true
 ---    
